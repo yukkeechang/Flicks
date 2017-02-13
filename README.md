@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 - [x] User can view a list of movies currently playing in theaters from The Movie Database.
 - [x] Poster images are loaded using the UIImageView category in the AFNetworking library.
 - [x] User sees a loading state while waiting for the movies API.
-- [ ] User can pull to refresh the movie list.
+- [x] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -97,8 +97,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Adding the refresh control was still a bit confusing because of my weak understanding of swift (still D:)
 
 ## License
 
